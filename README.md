@@ -1,0 +1,2 @@
+--Hệ thống ứng dụng model AI để phân loại tin bài tíc cực tiêu cực cho các bình luận của trang tin tức trường Đại học Mở Hà Nội(HOU)
+- hệ thống là sản phẩm được chạy 24/7 trên máy chủ cloud: amazon EC2
